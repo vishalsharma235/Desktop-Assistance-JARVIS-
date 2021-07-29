@@ -1,0 +1,18 @@
+pip install pyttsx3 (for the module pyttsx3)
+
+pip install speech_recognition (for module speech_recognition)
+pip install pipwin (pipwin is necessary for pyaudio)
+pipwin install pyaudio  (pyaudio is necessary for speech_recognition)
+
+pip install wikipedia (for wikipedia module)
+pip install pyjokes
+
+pip3 install Selenium
+https://pypi.org/project/selenium/ (-> for webdriver : Select appropriate web driver for Edge, Chrome, Firefox. Also check the build number) 
+After extracting the zip file We get an exe file. Right click on that exe file and say "copy"
+Paste that path inside "driver = selenium.webdriver("copied_path_here")"
+
+pip3 install wolframalpha
+Generate API key on https://www.wolframalpha.com/
+
+For News Generate api key on https://newsapi.org/
